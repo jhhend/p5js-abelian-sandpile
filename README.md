@@ -2,7 +2,7 @@
 
 An implementation of the Abelian Sandpile Model cellular automaton.
 
-You can read more about it [here](https://en.wikipedia.org/wiki/Abelian_sandpile_model). There is also a great video by numberphile which you can view [here](https://youtu.be/1MtEUErz7Gg).
+You can read more about it [here](https://en.wikipedia.org/wiki/Langton%27s_ant).
 
 # Technologies Utilized
 
